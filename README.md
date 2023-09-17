@@ -7,3 +7,5 @@ You need 'selenium' and 'pymysql' libraries.
     pip install selenium
     pip install pymysql
 
+It's a project that's still under construction. The code and implementation are not perfect yet.
+
