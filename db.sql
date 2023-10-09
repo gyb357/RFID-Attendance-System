@@ -61,4 +61,3 @@ SHOW TABLES;
 DESC user_info;
 DESC student_info;
 DESC time_table;
-
