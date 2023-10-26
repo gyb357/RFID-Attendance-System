@@ -4,11 +4,11 @@ import pandas as pd
 
 
 sql = SQLManager(
-    host = 'rldjqdus05.cafe24.com',
+    host = '',
     port = 3306,
-    user = 'rldjqdus05',
-    password = 'q1w2e3r4!',
-    db = 'rldjqdus05',
+    user = '',
+    password = '',
+    db = '',
     charset = 'utf8'
 )
 
